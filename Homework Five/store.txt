@@ -1,0 +1,13 @@
+\begin{tabular}{|l|l|l|l|l|}
+\hline
+tenant&shareholder&soldier&inning&activist\\\hline
+acre&merger&bombing&tournament&communist\\\hline
+homeless&subsidiary&fighting&streak&religious\\\hline
+residential&transaction&fighter&runner&religion\\\hline
+borough&asset&commander&champion&democracy\\\hline
+rent&acquisition&helicopter&eight&christian\\\hline
+resident&bankruptcy&bomb&foul&jews\\\hline
+building&accounting&refugee&victory&freedom\\\hline
+parking&takeover&army&ninth&independence\\\hline
+roof&banking&raid&eighth&gay\\\hline
+\end{tabular}

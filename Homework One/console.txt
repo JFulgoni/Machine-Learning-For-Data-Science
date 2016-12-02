@@ -1,0 +1,123 @@
+Part One - A
+wls
+   23.3589
+   -0.6704
+    1.0477
+   -0.0710
+   -5.8290
+    0.2495
+    2.7130
+
+Each of the signs has a corresponding meaning for the legend:
+
+Number of Cylinders (-) The more cylinders, the fewer MPG
+Displacement (+) Higher displacement, the better MPG
+Horsepower (-) Higher horsepower, the worse MPG
+Weight (-) Higher weight, the worse MPG
+Acceleration (+) Better acceleration, the better MPG
+Model Year (+) The newer model year, the better MPG
+
+Part One - B
+MAE_mean:
+    2.6771
+
+MAE_std:
+    0.4829
+
+Part Two - A - P=1
+RMSE_mean1:
+    3.4226
+
+RMSE_std1:
+    0.6938
+
+Part Two - A - P=2
+RMSE_mean2:
+    3.3819
+
+RMSE_std2:
+    0.6619
+
+Part Two - A - P=3
+RMSE_mean3:
+    3.4195
+
+RMSE_std3:
+    0.6787
+
+Part Two - A - P=4
+RMSE_mean4:
+    3.3976
+
+RMSE_std4:
+    0.6657
+
+Part Two - Table
+           R_means    R_stds 
+           _______    _______
+
+    P=1    3.4226     0.69382
+    P=2    3.3819     0.66187
+    P=3    3.4195      0.6787
+    P=4    3.3976     0.66568
+
+Gaussian Mean is the sum from 1 to n of all the data, then divide by n
+
+Gaussian Variance is the mean of the sum of each number minus the mean squared
+
+           Gaussian_Mean    Guassian_Variance
+           _____________    _________________
+
+    P=1    -0.0005546       12.195           
+    P=2     -0.042047       11.873           
+    P=3        0.0356       12.152           
+    P=4     -0.026061       11.986           
+
+Error using matlab.graphics.axis.Axes/set
+While setting the 'YLim' property of Axes:
+Value must be a 1x2 vector of numeric type in which the second element is larger than the first
+and may be Inf
+
+Error in ylim (line 43)
+    set(ax,'ylim',val);
+
+Error in ml_hw1 (line 497)
+ylim([-50000 -70000]);
+ 
+Gaussian Mean is the sum from 1 to n of all the data, then divide by n
+
+Gaussian Variance is the mean of the sum of each number minus the mean squared
+
+           Gaussian_Mean    Guassian_Variance
+           _____________    _________________
+
+    P=1    -0.0005546       12.195           
+    P=2     -0.042047       11.873           
+    P=3        0.0356       12.152           
+    P=4     -0.026061       11.986           
+
+Gaussian Mean is the sum from 1 to n of all the data, then divide by n
+
+Gaussian Variance is the mean of the sum of each number minus the mean squared
+
+           Gaussian_Mean    Guassian_Variance
+           _____________    _________________
+
+    P=1    -0.0005546       12.195           
+    P=2     -0.042047       11.873           
+    P=3        0.0356       12.152           
+    P=4     -0.026061       11.986           
+
+Gaussian Mean is the sum from 1 to n of all the data, then divide by n
+
+Gaussian Variance is the mean of the sum of each number minus the mean squared
+
+           Gaussian_Mean    Guassian_Variance
+           _____________    _________________
+
+    P=1    -0.0005546       12.195           
+    P=2     -0.042047       11.873           
+    P=3        0.0356       12.152           
+    P=4     -0.026061       11.986           
+
+>> 

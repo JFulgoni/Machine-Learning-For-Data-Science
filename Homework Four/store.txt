@@ -1,0 +1,8 @@
+\begin{tabular}{|l|l|}
+\hline
+Big Green, The (1995)&0.93053\\\hline
+For Richer or Poorer (1997)&0.93769\\\hline
+Operation Dumbo Drop (1995)&0.97804\\\hline
+Tom and Huck (1995)&1.0074\\\hline
+Preacher's Wife, The (1996)&1.0434\\\hline
+\end{tabular}
